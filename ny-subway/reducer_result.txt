@@ -13910,18 +13910,3 @@ R549	11110.0
 R550	7773.0
 R551	5559.0
 R552	12225.0
-63.2699012987013
-44104
-44104
-44104
-44104
-44104
-81.0
-81.0
-63.2699012987013
-the average minimum temperature is:  63.2699012987013
-the average minimum temperature is:  63.2699012987013
-Mean on rainy days is:  1105.4463767458733
-Mean on non rainy days is:  1090.278780151855
-Mean on rainy days is:  1105.4463767458733
-Mean on non rainy days is:  1090.278780151855
